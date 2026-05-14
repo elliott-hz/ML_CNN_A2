@@ -1,5 +1,6 @@
 # Data directory - too large to commit, manage separately
-data/
+data/25509225/
+data/temp/
 
 # Python
 __pycache__/
