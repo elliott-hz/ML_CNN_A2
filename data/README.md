@@ -3,6 +3,8 @@
 **Student ID:** 25509225  
 **Last Updated:** 2026-05-12
 
+⚠️ **Dataset Not Included:** Raw datasets and split classification datasets are not submitted to this repository due to size constraints. To re-run the notebooks, please place my personal datasets in the `data/25509225/` directory, then run [notebooks/data_processing/classification_dataset_split.ipynb](notebooks/data_processing/classification_dataset_split.ipynb) to generate the complete dataset structure.
+
 ---
 
 ## Overview
