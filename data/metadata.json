@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-30T18:44:35.268421Z",
+  "student_info": {
+    "student_id": "25509225",
+    "first_name": "Kuanlong",
+    "last_name": "Li",
+    "email": "Kuanlong.Li@student.uts.edu.au"
+  },
+  "image_classification": {
+    "ic_animal_dataset": "Birds",
+    "ic_num_classes": 10,
+    "ic_selected_classes": [
+      "RAINBOW LORIKEET",
+      "CRESTED KINGFISHER",
+      "EASTERN MEADOWLARK",
+      "CROW",
+      "HARLEQUIN QUAIL",
+      "TOWNSENDS WARBLER",
+      "FAIRY BLUEBIRD",
+      "LAUGHING GULL",
+      "PALILA",
+      "PARADISE TANAGER"
+    ]
+  },
+  "object_detection": {
+    "od_dataset": "Solar_Panel_Damage_Detection",
+    "od_formats": [
+      "coco",
+      "pascal",
+      "yolo"
+    ],
+    "od_train_split": 0.7,
+    "od_valid_split": 0.15,
+    "od_test_split": 0.15
+  }
+}
